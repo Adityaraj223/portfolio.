@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 1, "name" : "Job search", "description" : "A Job Finder application developed using the MERN (MongoDB, Express.js, React, Node.js) stack, designed to connect job seekers with relevant employment opportunities. This platform enables users to create profiles, search for jobs based on criteria, and apply to openings. The integration of MERN ensures a scalable and efficient application, handling user authentication, data storage, and real-time updates.", "image": "/src/assets/project-1.png"
+    },
+    {
+        "id" : 2, "name" : "mern Dashboard", "description" : "An Admin Dashboard built using the MERN stack, providing a comprehensive interface for managing and monitoring various aspects of an application or system. This dashboard offers real-time insights, data visualization, and user-friendly controls to streamline administrative tasks efficiently.", "image": "/src/assets/project-2.jpg"
+    },
+    {
+        "id" : 3, "name" : "ecommerce", "description" : " A dynamic and responsive E-commerce platform developed with React.js, offering a seamless online shopping experience. This website integrates user-friendly interfaces, product catalogs, secure payment gateways, and personalized user accounts. The use of React ensures a smooth and interactive user interface, enhancing the overall shopping journey for customers.", "image": "/src/assets/project-3.png"
+    }
+]
+
